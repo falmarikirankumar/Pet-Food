@@ -1,0 +1,240 @@
+[
+    {
+      "name":"Dog Food",
+      "address":"Pune.",
+      "delivery_charge": 50,
+      "image":"https://i.guim.co.uk/img/media/684c9d087dab923db1ce4057903f03293b07deac/205_132_1915_1150/master/1915.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=14a95b5026c1567b823629ba35c40aa0",
+
+
+      "hours":{
+        "Sunday":"11:00 AM - 7:00 PM",
+        "Monday":"10:00 AM - 9:00 PM",
+        "Tuesday":"10:00 AM - 10:00 PM",
+        "Wednesday":"10:00 AM - 11:00 PM",
+        "Thursday":"10:00 AM - 10:00 PM",
+        "Friday":"10:00 AM - 11:00 PM",
+        "Saturday":"10:00 AM - 2:00 PM"
+      },
+      "menus": [
+        {
+          "name": "Pedigree",
+          "price": 560.00,
+          "url": "https://m.media-amazon.com/images/I/61Aqqe8HgjL._AC_UL480_FMwebp_QL65_.jpg"
+        },
+        {
+          "name": "Drools Chicken",
+          "price": 575.00,
+          "url": "https://m.media-amazon.com/images/I/71NrhVNqHhL._AC_UL480_FMwebp_QL65_.jpg"
+        },
+        {
+          "name": "Meat Up",
+          "price": 700.00,
+          "url": "https://m.media-amazon.com/images/I/716AueVULCL._AC_UL480_FMwebp_QL65_.jpg"
+        },
+        {
+          "name": "Kennel Kitchen",
+          "price": 360.00,
+          "url": "https://m.media-amazon.com/images/I/71xpGriVKnL._AC_UL480_FMwebp_QL65_.jpg"
+        },
+        {
+          "name": "Grain Zero",
+          "price": 540.00,
+          "url": "https://m.media-amazon.com/images/I/81ViFdL0f-L._AC_UL480_FMwebp_QL65_.jpg"
+        },
+        {
+          "name": "Royal Canin",
+          "price": 140.00,
+          "url": "https://pawrulz.com/image/thumbnails/19/60/Royal_Canin_Medium_Breed___Puppy___Wet_Food_jpg-103950-320x450.jpg"
+        },
+        {
+          "name": "Canine Creek",
+          "price": 570.00,
+          "url": "https://m.media-amazon.com/images/I/719Qkn7izoL._AC_UL480_FMwebp_QL65_.jpg"
+        },
+        {
+          "name": "Goodness",
+          "price": 1300.00,
+          "url": "https://m.media-amazon.com/images/I/81Qykxv90VL._AC_UL480_FMwebp_QL65_.jpg"
+        }
+      ]
+    },
+    {
+      "name":"Cat Food",
+      "address":"Pune.",
+      "delivery_charge": 50,
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8_VXskFS-rdAqz6RNSkg-cIi9iBc52lFEVth3nPboW2D6OcwxyXcbG__EPE-CAAlfZRo&usqp=CAU",
+
+      "hours":{
+        "Sunday":"11:00 AM - 7:00 PM",
+        "Monday":"10:00 AM - 10:00 PM",
+        "Tuesday":"10:00 AM - 10:00 PM",
+        "Wednesday":"10:00 AM - 8:00 PM",
+        "Thursday":"10:00 AM - 10:00 PM",
+        "Friday":"10:00 AM - 10:00 PM",
+        "Saturday":"9:00 AM - 1:00 PM"
+      },
+      "menus": [
+        {
+          "name": "Purepet Ocean Fish",
+          "price": 180.00,
+          "url": "https://m.media-amazon.com/images/I/71N9qXb6rCL._AC_UL480_FMwebp_QL65_.jpg"
+        },
+        {
+          "name": "Whiskas Ocean",
+          "price": 950.00,
+          "url": "https://m.media-amazon.com/images/I/515+bK2XtBL._AC_UL480_FMwebp_QL65_.jpg"
+        },
+        {
+          "name": "Me-O",
+          "price": 400.00,
+          "url": "https://m.media-amazon.com/images/I/616UBK7THSL._AC_UL480_FMwebp_QL65_.jpg"
+        },
+        {
+          "name": "Drools Kitten",
+          "price": 700.00,
+          "url": "https://m.media-amazon.com/images/I/71KgnUioeQL._AC_UL480_FMwebp_QL65_.jpg"
+        },
+        {
+          "name": "Purina FRISKIES",
+          "price": 430.00,
+          "url": "https://m.media-amazon.com/images/I/51i-rErPksL._AC_UL480_FMwebp_QL65_.jpg"
+        },
+        {
+          "name": "Maxi Persian",
+          "price": 410.00,
+          "url" : "https://m.media-amazon.com/images/I/71-bw4D0OkL._AC_UL480_FMwebp_QL65_.jpg"
+        },
+        {
+          "name": "Royal Canin",
+          "price": 1340.00,
+          "url": "https://m.media-amazon.com/images/I/71ASHpNRPcL._AC_UL480_FMwebp_QL65_.jpg"
+        },
+        {
+          "name": "Drools Mackerel",
+          "price": 650.00,
+          "url": "https://m.media-amazon.com/images/I/71+7vSHHQ3L._AC_UL480_FMwebp_QL65_.jpg"
+        },
+        {
+          "name": "Kitty Yums",
+          "price": 520.00,
+          "url": "https://m.media-amazon.com/images/I/61fYMMHNo6L._AC_UL480_FMwebp_QL65_.jpg"
+        }
+      ]
+    },
+  {
+    "name":"Bird's",
+    "address":"Pune.",
+    "delivery_charge": 50,
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkL2niI2DIX076aHhuA0ub3meZ9jMRxHxZHw&usqp=CAU",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"9:00 AM - 2:00 PM"
+    },
+    "menus": [
+      {
+        "name": "BOLTZ",
+        "price": 400.00,
+        "url": "https://m.media-amazon.com/images/I/7169GpTvmgL._AC_UL480_FMwebp_QL65_.jpg"
+      },
+      {
+        "name": "Premium Seed Blend",
+        "price": 200.00,
+        "url": "https://m.media-amazon.com/images/I/91cP14ZOX5L._AC_UL480_FMwebp_QL65_.jpg"
+      },
+      {
+        "name": "Premium Seed Mix",
+        "price": 810.00,
+        "url": "https://m.media-amazon.com/images/I/718m+NVW3fL._AC_UL480_FMwebp_QL65_.jpg"
+      },
+      {
+        "name": "SUN FLOWER FEED",
+        "price": 400.00,
+        "url": "https://m.media-amazon.com/images/I/41y7IFm-jcL._AC_UL480_FMwebp_QL65_.jpg"
+      },
+      {
+        "name": "Petslife Fruit Mix",
+        "price": 280.00,
+        "url": "https://m.media-amazon.com/images/I/51QO5+IHMTL._AC_UL480_FMwebp_QL65_.jpg"
+      }
+    ]
+  },
+  {
+    "name":"Fish",
+    "address":"Pune.",
+    "delivery_charge": 50,
+    "image":"data:image/jpeg;base64,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",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"10:00 AM - 3:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Micro Pellets",
+        "price": 350.00,
+        "url": "https://m.media-amazon.com/images/I/8120HjdIsuL._AC_UL480_FMwebp_QL65_.jpg"
+      },
+      {
+        "name": "Koi Gold Premium",
+        "price": 350.00,
+        "url": "https://m.media-amazon.com/images/I/71lbZpP0m9L._AC_UL480_FMwebp_QL65_.jpg"
+      },
+      {
+        "name": "Freeze Dried",
+        "price": 250.00,
+        "url": "https://m.media-amazon.com/images/I/71GvbD03PrL._AC_UL640_QL65_.jpg"
+      },
+      {
+        "name": "Optimum Highly Nutritious",
+        "price": 250.00,
+        "url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT8K3IFKtgzBeZLbYl_5zzBIj3OgCWFD6VyZd3mARI7oO5RJdRBI3xGm3LZJIJ-ceGHzNcmuNKRFg&usqp=CAc"
+      }
+    ]
+  },
+  {
+    "name":"Tortoise",
+    "address":"Pune.",
+    "delivery_charge": 50,
+    "image":"data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHEhUSBxQTFRUVGRcYGBcYFxkZFhsaFxcXGhsYFRkaHygiGBolGxoYIz0hJykrNDouGB8zODMtNygtMCsBCgoKDg0OGxAQGi8lICUtLTEtLTcwNS0tLzc1LS0uLS0yMDIvLS0rLSs1LS0tLS0tLS8rNS0tKzAvLS0tListLf/AABEIALcBEwMBIgACEQEDEQH/xAAcAAEAAwEBAQEBAAAAAAAAAAAABQYHBAIDCAH/xABAEAABAwIEAwUEBwUIAwAAAAABAAIRAwQFEiExBkFREyJhcYEHMpGxFCMzQlKh0WKCksHhFSVDRHKisvAXJDT/xAAZAQEAAwEBAAAAAAAAAAAAAAAAAQIDBAX/xAAoEQEAAgEDBAIBBAMAAAAAAAAAAQIRAxIhBDFBURNhIhQywfCBobH/2gAMAwEAAhEDEQA/ANxREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQERfxzmsEuIAG5KD+ooG94y4esp7a4pkjcMJqH1yAwq7ce13hym7JbtuKjuWWmAD01cQg0BFnFf2rUmiaFpUJ6OqNb+YDl/bf2pF7gKllUJMaU6ge7XwLW/ElRmE4loyKNtcatrhoc8Opz91wGYeeUkfmu+nUZVE0yCOoKit627SmazHeHtERWVEREBERAREQEREBERAREQEREBERAREQEREBERAREQEOi81KjKQLqpAA1JOgAHMnksQ9pPtEr4nWNngL8tFulSoNDUMatbzFMfmfDcL7jnHTKL+ywRrKrhOeo9xbRaBuZHvAddvNZ/xfxweJ2GjSaHUgRmcZaxxB1hkyR5lVzi66Zhdq21pEdtWAdUA1LWD3WEjb1/aUHZ0SCGZmn8UTygRt1MehWFZ+Sc+PH39tZjZ27rLZWVkAKlSS6IDZOnj/3r8Lfh/DeF4c36RjgphxHdY49xvm0+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",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"10:00 AM - 3:00 PM"
+    },
+    "menus": [
+      {
+        "name": "TAIYO PLUSS",
+        "price": 140.00,
+        "url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTcZRV5Tuzsfp7pIN-SxGeXR3CQAh07XNUF43DtJPa9gI-Ru0AiQEXmUybxWy7eOnw4wDN-ZNl0cJI&usqp=CAc"
+      },
+      {
+        "name": "Fortified Land Turtle and Tortoise",
+        "price": 1350.00,
+        "url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSqoRgHpdEH3HBIv03BOxz1c9xdky7xg8jMZ6DzBBluctRtTJCwMp5MQ0kGdjAVAw8U7B0lURCbvKc&usqp=CAc"
+      },
+      {
+        "name": "Freeze Dried",
+        "price": 250.00,
+        "url": "https://m.media-amazon.com/images/I/71GvbD03PrL._AC_UL640_QL65_.jpg"
+      },
+      {
+        "name": "Optimum Highly Nutritious",
+        "price": 250.00,
+        "url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT8K3IFKtgzBeZLbYl_5zzBIj3OgCWFD6VyZd3mARI7oO5RJdRBI3xGm3LZJIJ-ceGHzNcmuNKRFg&usqp=CAc"
+      }
+    ]
+  }
+]

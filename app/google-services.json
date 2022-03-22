@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "49119595692",
+    "project_id": "pet-food-3a5e7",
+    "storage_bucket": "pet-food-3a5e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49119595692:android:f0b6b9623f28d6df216309",
+        "android_client_info": {
+          "package_name": "com.example.petfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49119595692-rkljt6ngg31iprv86n2j9sod5bnpek1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPxWem87bDK8MPvvSfmY1lnp5J-Dlz1Sg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49119595692-rkljt6ngg31iprv86n2j9sod5bnpek1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
